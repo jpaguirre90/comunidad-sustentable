@@ -1,5 +1,14 @@
 /* Inserta tu codigo aqui */
+
 #logo{
     width: 90px;
     height: 80px;
+}
+
+#mision{
+    width: 100px;
+    height: 100px;
+    display:block;
+    margin:auto;
+    text-align: center;
 }
